@@ -29,3 +29,4 @@ Link to open project files using [Google Colab](https://colab.research.google.co
 | File | Link
 | :------ | :--------------------
 | [basics.ipynb](basics.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/sfmunoz/r-playground/blob/main/basics.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+| [tdvs.ipynb](tdvs.ipynb) | <a target="_blank" href="https://colab.research.google.com/github/sfmunoz/r-playground/blob/main/tdvs.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
