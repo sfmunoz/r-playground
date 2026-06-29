@@ -7,8 +7,10 @@ R playground
 - https://www.r-project.org/
   - https://cran.r-project.org/doc/manuals/r-release/R-intro.html
 - https://github.com/StatQuest/sigs
-- [Learn R in 39 minutes](https://www.youtube.com/watch?v=yZ0bV2Afkjc)
-- [ggplot for plots and graphs. An introduction to data visualization using R programming](https://www.youtube.com/watch?v=HPJn1CMvtmI)
+- Videos
+  - [Learn R in 39 minutes](https://www.youtube.com/watch?v=yZ0bV2Afkjc)
+  - [ggplot for plots and graphs. An introduction to data visualization using R programming](https://www.youtube.com/watch?v=HPJn1CMvtmI)
+  - [R programming in one hour - a crash course for beginners](https://www.youtube.com/watch?v=eR-XRSKsuR4)
 - The [Tidyverse](https://tidyverse.org/) is an opinionated collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures.
   - [ggplot2](https://ggplot2.tidyverse.org/) is a system for declaratively creating graphics, based on The Grammar of Graphics. You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
   - [dplyr](https://dplyr.tidyverse.org/) provides a grammar of data manipulation, providing a consistent set of verbs that solve the most common data manipulation challenges.
